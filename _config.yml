@@ -1,0 +1,28 @@
+name: Charissa Moore
+favicon: null
+layout_spectrum: 0.9708965481258929
+typography_spectrum: 0.249985930044204
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.24189280904829502
+  lightness: 0.9854231718927622
+  saturation: 0.5118355085141957
+  rhythmicContrast: 0.863250182243064
+purpose: []
