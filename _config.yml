@@ -1,4 +1,4 @@
-name: Charissa Moore
+name: twenty-seven revolutions around the sun
 favicon: null
 layout_spectrum: 0.99526
 typography_spectrum: 0.24194
@@ -23,7 +23,7 @@ color:
     - '#FBB9BF'
     - '#E376B7'
   brandStrength: 0.875
-  lightness: 0.8125
+  lightness: 0.5
   saturation: 0.1875
   rhythmicContrast: 0.863250182243064
 purpose: []
