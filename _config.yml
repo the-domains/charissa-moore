@@ -1,29 +1,41 @@
-name: twenty-seven revolutions around the sun
-favicon: null
-layout_spectrum: 0.49226
-typography_spectrum: 0.59284
 title: she follows the moon
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.25
+  brandStrength: 0.75
+  lightness: 0.5519713
   brandColors:
     - '#fefefe'
     - '#331c55'
     - '#926838'
     - '#448c98'
     - '#a3a09b'
-  brandStrength: 0.75
-  lightness: 0.3125
-  saturation: 0.25
-  rhythmicContrast: 0.25
-purpose: []
+  rhythmicContrast: 0.5913978
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: twenty-seven revolutions around the sun
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.59284
+layout_spectrum: 0.49226
