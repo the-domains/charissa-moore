@@ -1,7 +1,7 @@
 name: twenty-seven revolutions around the sun
 favicon: null
-layout_spectrum: 0.99526
-typography_spectrum: 0.24194
+layout_spectrum: 0.49226
+typography_spectrum: 0.59284
 title: twenty-seven revolutions around the sun
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#A690A4'
-    - '#B68F9D'
-    - '#C8ACAB'
-    - '#FBB9BF'
-    - '#E376B7'
+    - '#daad75'
+    - '#cf5290'
+    - '#f084b7'
+    - '#94215d'
+    - '#cb7a6d'
   brandStrength: 0.875
   lightness: 0.5
   saturation: 0.1875
